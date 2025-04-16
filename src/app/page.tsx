@@ -29,7 +29,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Card className="w-full max-w-md space-y-4 p-4 rounded-lg shadow-md">
         <CardHeader>
-          <CardTitle className="text-center">TipTop</CardTitle>
+          <CardTitle className="text-center">Tip Me</CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           {/* Bill Amount Input */}
